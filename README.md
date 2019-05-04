@@ -1,5 +1,5 @@
 # The-genetic-algorithm-VBA-code
-## Implementing a genetic algorithm to optimize rock cutting tools
+ Implementing a genetic algorithm to optimize rock cutting tools
 
 ## Macro program description
 
