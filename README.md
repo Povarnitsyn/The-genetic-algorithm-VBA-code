@@ -16,3 +16,7 @@ Fig. 1.The block diagram of the macro program
 4. After the model is calculated from the output files, the values of the target functional F are determined, as well as the parameters specified as constraints.
 5. Then the genetic algorithm gets the value of the functional F and generates a new set of parameters X1,. . . , Xn, after which the step «2» is repeated.
 6. The calculation will be completed after the specified number of cycle steps has passed.
+
+
+
+Fig. 2.The model in Ansys
